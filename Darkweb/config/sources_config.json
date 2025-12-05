@@ -1,0 +1,6825 @@
+{
+  "generated_at": "2025-12-04T04:52:02.890Z",
+  "sources": {
+    "search_engines": [
+      {
+        "name": "Abiko",
+        "url": "http://abikoifawyrftqivkhfxiwdjcdzybumpqrbowtudtwhrhpnykfonyzid.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Ahmia",
+        "url": "http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Amnesia",
+        "url": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Bobby",
+        "url": "http://bobby64o755x3gsuznts6hf6agxqjcz5bop6hs7ejorekbm7omes34ad.onion/index.php",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "DANEX",
+        "url": "http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "DarkSearch",
+        "url": "http://darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "DarkSide",
+        "url": "http://darksid3f3ggicny772rvdmrcgfbtixsyjpdgm6unh5qci6r24ukg4qd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Deep Search",
+        "url": "http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Demon",
+        "url": "http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Evo Search",
+        "url": "http://wbr4bzzxbeidc6dwcqgwr3b6jl7ewtykooddsc5ztev3t3otnl45khyd.onion/evo/search.php",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "FYO",
+        "url": "http://fyonionsqkae65mfxsgvp3fu4q2aegdrz3dh5ocjlbjrfybpqywgshad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "FindTor",
+        "url": "http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Fresh onions",
+        "url": "http://freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "GDark",
+        "url": "http://zb2jtkhnbvhkya3d46twv3g7lkobi4s62tjffqmafjibixk6pmq75did.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Haystak",
+        "url": "http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Hidden Links",
+        "url": "http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Hidden Reviews",
+        "url": "http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Hologram",
+        "url": "http://hologramnkycaoyouxst54l64knvmossdapc5k5pmjb5hnrpcodncpad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Hoodle",
+        "url": "http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "I2P Search",
+        "url": "http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "ICEBERG",
+        "url": "http://iceberget6r64etudtzkyh5nanpdsqnkgav5fh72xtvry3jyu5u2r5qd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Kraken",
+        "url": "http://krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Light Search",
+        "url": "http://light3232dmbbnigk34aeg2ef3j3uvnwkqsymunadh3to3vg4gpyeyid.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "MetaGer",
+        "url": "http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "OSS - Onion Search Server",
+        "url": "http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion/oss/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Onion Center",
+        "url": "http://5qqrlc7hw3tsgokkqifb33p3mrlpnleka2bjg7n46vih2synghb6ycid.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Onion Index",
+        "url": "http://oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Onion Land",
+        "url": "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "OnionLand",
+        "url": "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "OnionSearch",
+        "url": "http://searchpxsd4vdpf35uk4ycgxolp732zhs7zr4qgftt6qvmgpo6mukbyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "OurRealm",
+        "url": "http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "RSS-Bridge",
+        "url": "http://mo2s6juoepmoob6d43mic7nctlp4gg66kkh7bdii3vwiwp626h6b2bqd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "SearX",
+        "url": "http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Search Grams",
+        "url": "http://grams64rarzrk7rzdaz2fpb7lehcyi7zrrf5kd6w2uoamp7jw2aq6vyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Sentor",
+        "url": "http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Snow Bin",
+        "url": "http://snowbin45znsonv227ypgbuvpqyaoolxpdg3nhhfznahe3exif6z7tyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Snow Search",
+        "url": "http://snowsrchzbc2xdkmgvimetleohpnnnscnsgwmvneizcb34ywwocahiyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Stealth",
+        "url": "http://stealth5wfeiuvmtgd2s3m2nx2bb3ywdo2yiklof77xf6emkwjqo53yd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Submarine",
+        "url": "http://no6m4wzdexe3auiupv2zwif7rm6qwxcyhslkcnzisxgeiw6pvjsgafad.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "The Deep Searches",
+        "url": "http://searchgf7gdtauh7bhnbyed4ivxqmuoat3nm6zfrg3ymkq6mtnpye3ad.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "The Onions Bag",
+        "url": "http://on62jjkocppf3alrznspngqt4v7emcyxcxz4r5cq5pwnajyshr2u4uqd.onion/onionbag/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Tor66",
+        "url": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "TorBook",
+        "url": "http://torbookp6ougjm42lzt4gzki3ozprktiekhqydwavp26d5m3ewjr3fad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "TorLanD",
+        "url": "http://torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "TorchLinks",
+        "url": "http://torchlu7soq4akgqojbby4fgfwsxyppjdlzry2qtn7lbghfalxurbjad.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Torch",
+        "url": "http://torchqsxkllrj2eqaitp5xvcgfeg3g5dr3hr2wnuvnj76bbxkxfiwxqd.onion",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Tordex",
+        "url": "http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Torgle",
+        "url": "http://iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion/torgle/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Tornet Global Search",
+        "url": "http://xcprh4cjas33jnxgs3zhakof6mctilfxigwjcsevdfap7vtyj57lmjad.onion/tgs/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "Venus",
+        "url": "http://venusoseaqnafjvzfmrcpcq6g47rhd7sa6nmzvaa4bj5rp6nm5jl7gad.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "VisiTOR",
+        "url": "http://uzowkytjk4da724giztttfly4rugfnbqkexecotfp5wjc2uhpykrpryd.onion/search/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "DarkwebDaily Clear Web",
+        "url": "https://darkwebdaily.live/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      },
+      {
+        "name": "DarkwebDaily Onion",
+        "url": "http://dailydwusclfsu7fzwydc5emidexnesmdlzqmz2dxnx5x4thl42vj4qd.onion/",
+        "status": "ONLINE",
+        "type": "search_engine"
+      }
+    ],
+    "forums": [
+      {
+        "name": "0x00sec",
+        "url": "https://0x00sec.org/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "4CHEAT",
+        "url": "https://4cheat.ru/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ALTENEN (Deep)",
+        "url": "https://altenens.is",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ALPHV Forum",
+        "url": "https://alphv.pro",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ASCARDING",
+        "url": "https://ascarding.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BDF CLUB",
+        "url": "https://bdfclub.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BEST CARDING WORLD",
+        "url": "http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BHC Forums",
+        "url": "https://bhcforums.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BHF",
+        "url": "https://bhf.pro",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BHF",
+        "url": "https://bhf.gg",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BHF",
+        "url": "https://bhf.im",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BITCOINFO.RU",
+        "url": "http://bitcoinfor.ru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BITS.MEDIA",
+        "url": "https://forum.bits.media",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BLACKBONES",
+        "url": "https://blackbones.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "blackhatpakistan",
+        "url": "https://blackhatpakistan.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "blackhatprotools",
+        "url": "https://www.blackhatprotools.info/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BLACKHATWORLD",
+        "url": "https://blackhatworld.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BREACHED",
+        "url": "https://breached.ws",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BREACH FORUMS starting from 01/07/25 - by Hasan",
+        "url": "http://breached.ws",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BREACH FORUMS starting from 01/07/25 - by Hasan",
+        "url": "http://breachy72uc3rgraqpvfnb6dglhbcy7niqpmjdlseewzgpq4vifmmuyd.onion/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)",
+        "url": "http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/index.php",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CARDERS.BIZ",
+        "url": "https://carders.biz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CENTER CLUB",
+        "url": "https://center-club.io",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CHITACHOK",
+        "url": "https://chitachok.ru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "COMFYBOX",
+        "url": "https://comfybox.floofey.dog",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "COOKIEPRO",
+        "url": "https://coockie.pro",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRACKED",
+        "url": "https://cracked.sh",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRACKING",
+        "url": "https://cracking.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRACKING MAFIA",
+        "url": "https://crackingmafia.is",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRACKING PRO",
+        "url": "https://www.crackingpro.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRACKING X",
+        "url": "https://crackingx.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRDPRO",
+        "url": "https://crdpro.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRIMENETWORK (Dark)",
+        "url": "http://cnw4acab23przeum6ios6pw63ivxxbrvpclz5yssflkos6ano6oq4fqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRIMENETWORK (Deep)",
+        "url": "http://crime.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRIMENOW",
+        "url": "http://crimenow.is",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRIMESTATE",
+        "url": "https://crimestate.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRYPTBB",
+        "url": "http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRYPTOCURRENCY.TECH",
+        "url": "https://forum.cryptocurrency.tech",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRYPTOFF",
+        "url": "https://forum.cryptoff.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CRYPTOGID",
+        "url": "http://cryptogid.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CVV_BOARD",
+        "url": "https://cvvbrd.info",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "CYBHACK",
+        "url": "https://cybhack.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "D4rkForums",
+        "url": "https://d4rkforums.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DANGEROUSTHINGS",
+        "url": "https://forum.dangerousthings.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARK2WEB",
+        "url": "https://dark2web.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKCLUB",
+        "url": "https://darkclub.pw",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DarkForum",
+        "url": "https://darkforum.in",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKFORUM",
+        "url": "https://darkforum.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKFORUMS (Deep)",
+        "url": "https://darkforums.st",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKFORUMS (Dark)",
+        "url": "http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKMONEY",
+        "url": "https://darkmoney.lc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKNET ARMY",
+        "url": "http://dna777ucpo4unwxrzw5mzs4iqm5qz3uepw3k5mvwbt7tnufryvsgy5yd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKNET",
+        "url": "https://darknet.ug",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "Darkpid",
+        "url": "https://darkpid.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "darkpro",
+        "url": "https://darkpro.net/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKWEB",
+        "url": "http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DARKZONE",
+        "url": "https://darkzone.uk",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DATACLOUD",
+        "url": "https://datacloud.space",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DataForums",
+        "url": "https://dataforums.co",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DEDICATET",
+        "url": "https://dedicatet.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DEMONFORUMS",
+        "url": "https://demonforums.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DRDARK",
+        "url": "https://drdark.ru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DREAD",
+        "url": "http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DUBLIKAT.CLUB",
+        "url": "https://at.dublikat.club",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DUMPED",
+        "url": "https://dumped.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DUMPFORUMS (Dark)",
+        "url": "http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DUMPFORUMS (Deep)",
+        "url": "https://dumpforums.to/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "Duty Free Forum (Deep)",
+        "url": "https://forum.duty-free.cc/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DWF (Tor v3)",
+        "url": "http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ELEAKS",
+        "url": "https://eleaks.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ENCLAVE",
+        "url": "https://www.enclave.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ENDWAY",
+        "url": "https://endway.su",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ETERNIA",
+        "url": "https://eternia.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EVILARMY",
+        "url": "https://evilarmy.in",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EVILZONE",
+        "url": "https://evil-zone.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "evilx",
+        "url": "https://evilx.su/forum/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXODUS",
+        "url": "https://forum.exodusmarket.io",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXPLOIT.IN (Dark)",
+        "url": "https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXPLOIT.IN (Deep)",
+        "url": "https://exploit.in",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXPLOIT.IN (Deep)",
+        "url": "https://exploit.biz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXPLOIT FORUMS",
+        "url": "https://exploitforums.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXPLOITS.WS",
+        "url": "https://exploits.ws",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ezcarder",
+        "url": "https://ezcarder.is/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "FORUMTEAM.ONLINE",
+        "url": "https://forumteam.online",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "FORUMTEAM.TOP",
+        "url": "https://forumteam.top",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "FSSQUAD",
+        "url": "https://fssquad.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "Funksec Ransomware",
+        "url": "http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "GETREKT",
+        "url": "https://getrekt.io",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": "https://t.me/getrektio"
+      },
+      {
+        "name": "HACKFORUMS",
+        "url": "https://hackforums.net/index.php",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "hackingfather",
+        "url": "https://hackingfather.com/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "hackonology",
+        "url": "https://hackonology.com/forum/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "hacksnation",
+        "url": "https://hacksnation.com/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "HACKTOWN",
+        "url": "http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion/HackTown.html",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "HELIUM",
+        "url": "http://fahue6hb7odzns36vfoi2dqfvqvjq4btt7vo52a67jivmyz6a6h3vzqd.onion/login",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "HOHEKAMMER",
+        "url": "http://hohekammer.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "IN4BZ",
+        "url": "https://in4.bz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "INCIDIOUS",
+        "url": "https://incidious.se",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "INFECTED ZONE",
+        "url": "https://infected-zone.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "INFINITY",
+        "url": "https://infinity.ink",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "KCC",
+        "url": "http://kcc.cat",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "KICKASS",
+        "url": "http://o3nqszgvtqwcc2mxqcqgeyulkh6spiv6yaahgu7znaphzmikfvpu5aad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "KKKSecForum",
+        "url": "https://forum.kkksec.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "KOROVKA",
+        "url": "http://korovka.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "Korovka",
+        "url": "https://korovka.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "Lampeduza",
+        "url": "https://lampeduza.la",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEAD LAB",
+        "url": "https://leadlab.top",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEAKBASE",
+        "url": "https://leakbase.la",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEAK FORUMS",
+        "url": "https://leakforums.su",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEAKS.SO",
+        "url": "https://leaks.so",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEAKS.SX",
+        "url": "https://leak.sx",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEAKY.PRO",
+        "url": "https://leaky.pro/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LEECH",
+        "url": "https://leech.is",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LeVeL23HackTools",
+        "url": "https://level23hacktools.com/hackers",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LinkPass",
+        "url": "https://linkpass.info",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LOLZ",
+        "url": "https://lolz.guru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "LOWENDTALK",
+        "url": "http://lowendtalk.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "MASTODON",
+        "url": "https://masthead.social/auth/sign_in",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "MEGATOP",
+        "url": "https://megatop.biz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "MIPPED",
+        "url": "https://mipped.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "MMGP",
+        "url": "https://mmgp.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NEFARIUM",
+        "url": "http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NEXTGEN FORUMS",
+        "url": "https://NextGenForums.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NIFLHEIM.World",
+        "url": "https://niflheim.world",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NIGGAFORUMS (BLACKFORUMS MIRROR)",
+        "url": "https://niggaforums.me",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NIGGAFORUMS (BLACKFORUMS MIRROR)",
+        "url": "https://niggaforums.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NODO313",
+        "url": "http://nodo313.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NOHIDESPACE",
+        "url": "https://nohide.space",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NULLEDBB",
+        "url": "https://nulledbb.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "NULLEDX",
+        "url": "https://nulledx.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "OLVX",
+        "url": "https://olvx.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "OMERTA",
+        "url": "https://omerta.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "OMERTA",
+        "url": "https://omerta.cx",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "OMERTA",
+        "url": "https://omert.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "OnniForums",
+        "url": "https://onniforums.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "OPENSSOURCE",
+        "url": "https://openssource.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PATCHED.TO",
+        "url": "https://patched.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PAYLOAD.SH",
+        "url": "https://payload.sh",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PHISH.PW",
+        "url": "https://phish.pw",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PHREAKER",
+        "url": "https://phreaker.info",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PIRATEBUHTA",
+        "url": "https://s1.piratebuhta.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PROBIV",
+        "url": "https://probiv.one",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PROCRD",
+        "url": "https://procrd.pw",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PROLOGIC",
+        "url": "https://prologic.su",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PROTON",
+        "url": "https://proton.sc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "PSHACK",
+        "url": "https://pshack.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RAMBLE",
+        "url": "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RAMP (Dark)",
+        "url": "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RAMP (Deep)",
+        "url": "https://ramp4u.io",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RANSOMED",
+        "url": "http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "REBREACHED",
+        "url": "https://rebreached.vc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "REVERSING",
+        "url": "https://reversing.center",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RF-CHEAT",
+        "url": "https://www.rf-cheats.ru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ROOTSPLOIT",
+        "url": "https://rootsploit.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RUTOR (Dark)",
+        "url": "http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RUTOR (Dark)",
+        "url": "http://rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RUTOR (Dark)",
+        "url": "http://rutordark63xripv2a3skfrgjonvr3rqawcdpj2zcbw3sigkn6l3xpad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RUTOR (Deep)",
+        "url": "https://darknet.rutor.nl",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RUTOR (Surface - torrent)",
+        "url": "http://rutor.info",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "RUTOR (Surface - torrent)",
+        "url": "http://rutor.is",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SECRET FORUM PROPAGANDA",
+        "url": "http://qvwje7edtrfby6pfnm3q7o3lju22mfx3xsjyl3y33l66sbq3qcnlmvad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SEOPIRAT",
+        "url": "https://seopirat.club",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SINFUL",
+        "url": "https://sinfulsite.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SINISTER",
+        "url": "https://sinister.ly",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SKYNETZONE.BIZ",
+        "url": "https://skynetzone.biz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SKYNETZONE.PW",
+        "url": "https://skynetzone.pw",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SOFTXAKER",
+        "url": "http://forum.softxaker.ru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SPYHACKERZ",
+        "url": "https://spyhackerz.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SQLI",
+        "url": "https://sqli.cloud",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "STRESSED FORUM",
+        "url": "https://stressedforums.pw",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "SUPERBAY",
+        "url": "http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "THE GOOD LIFE",
+        "url": "https://thegoodlife.to",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "THE HUB",
+        "url": "http://thehubwav7canwaq7trm6zl3tqvkf2kwbkgwvwonfssvgvtyrdy4u3yd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "THE JAVA SEA",
+        "url": "https://thejavasea.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "TOOLBASE",
+        "url": "https://toolba.se",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "TRAFA NET",
+        "url": "https://trafa.net",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "TURKHACKTEAM",
+        "url": "https://www.turkhackteam.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "VAVILON",
+        "url": "https://vavilon.cc",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "VEDENET",
+        "url": "https://vedenet.online",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "VERIFIED (Dark)",
+        "url": "http://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/index.php",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "VERYLEAKS",
+        "url": "https://veryleaks.cz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "V-H.GURU",
+        "url": "https://v-h.guru",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "VLMI",
+        "url": "https://vlmi.ws",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "VSEMMONEY",
+        "url": "https://vsemmoney.com",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "WWHCLUB",
+        "url": "https://wwh-club.io",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "XFORUMS",
+        "url": "https://xforums.st",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "XREACTOR",
+        "url": "https://xreactor.org",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "XSS (Dark)",
+        "url": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "XSS (Dark)",
+        "url": "http://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "XSS (Deep)",
+        "url": "https://xss.pro",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "YOUHACK",
+        "url": "https://youhack.xyz",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ZDL",
+        "url": "https://zdl.pw",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "KittyForums",
+        "url": "https://kittyforums.st/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ReHubCom (Dark)",
+        "url": "https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "ReHubCom (Deep)",
+        "url": "https://rehubcom.pro",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BITTEN FORUMS",
+        "url": "http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "EXILIO404",
+        "url": "http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "XSSF",
+        "url": "https://xssf.net/",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "DAMAGELIB",
+        "url": "damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      },
+      {
+        "name": "BFD Forum",
+        "url": "http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion",
+        "status": "ONLINE",
+        "type": "forum",
+        "description": ""
+      }
+    ],
+    "telegram": [
+      {
+        "name": "Cyber Cossacks",
+        "url": "https://t.me/+63wu1QC3KM04ZTJi",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Ares private channel",
+        "url": "https://t.me/+9ETFYLy5Tc1lNzBh",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Openbullet Config Service",
+        "url": "https://t.me/+_d-aW--RLXszYmU0",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Forum",
+        "url": "https://t.me/+AAAAAFNLmVP0ZCy51tNOig",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AresLoader",
+        "url": "https://t.me/+Bat9QqJcSuE0MTg1",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Pro Team Channel",
+        "url": "https://t.me/+f6HgnXuFRiIxMzhk",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "Goblin's Hub (private)",
+        "url": "https://t.me/+FuLjnRtP3BhiZDNl",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Inteid",
+        "url": "https://t.me/+GeILA8S0Bk4wYmRi",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "SUMATRA UTARA CYBER TEAM",
+        "url": "https://t.me/+HG32VQZ93-4zMjE1",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AKATSUKI gang (Algerian Ministry breach)",
+        "url": "https://t.me/+ipEzVrjM43NkODc0",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "The Collective Sentinel",
+        "url": "https://t.me/+jCjbvdsUSJIzN2Vl",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Bucket Leaks",
+        "url": "https://t.me/+l2fmYlvJnTA2MTc0",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      },
+      {
+        "name": "Data Globe",
+        "url": "https://t.me/+lPVDPudjxSE0M2Q1",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "TCG",
+        "url": "https://t.me/+O7yT5lylY89lMTcy",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "keymous team BackUp",
+        "url": "https://t.me/+S_ajHerTbKUwYTA0",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Agencyint",
+        "url": "https://t.me/+uEqGqAnqdwQ5ZDg1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "Hunting for Data",
+        "url": "https://t.me/+uIojmLMIJz0yNzIy",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "Killnet Store Chat",
+        "url": "https://t.me/+uV_Lxf2uOHhkMjAy",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/+WCSE2vgon6IYGLgz",
+        "url": "https://t.me/+WCSE2vgon6IYGLgz",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AnonSec",
+        "url": "https://t.me/+wP33Q9NXAURlMzNk",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "https://t.me/+YR89p_rg8Oo0Y2Ux",
+        "url": "https://t.me/+YR89p_rg8Oo0Y2Ux",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Illicit Service Group",
+        "url": "https://t.me/AccountSquadChat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Alixsec",
+        "url": "https://t.me/alixsecenglish",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/Allhak_mv",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/altenens",
+        "url": "https://t.me/altenens",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Anonymous Russia channel",
+        "url": "https://t.me/anon_by",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/anoncambodia",
+        "url": "https://t.me/anoncambodia",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ANONYMOUS KASHMIR",
+        "url": "https://t.me/ANONMOUS_KASHMIR",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AnonPioneers",
+        "url": "https://t.me/AnonPioneers",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Anonymous Guys",
+        "url": "https://t.me/Anonymous_Guys_313",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Anonymous South Africa",
+        "url": "https://t.me/anonymous_south_africa",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "AE Chat",
+        "url": "https://t.me/antiextchatt",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Anzu Team",
+        "url": "https://t.me/anzu_team",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Killnet API DDoS Mirai",
+        "url": "https://t.me/APIddosMirai",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Exploits",
+        "url": "https://t.me/APTANALYSIS",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ArabGhost",
+        "url": "https://t.me/arabghostschat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ARABIAN GHOSTS",
+        "url": "https://t.me/ARABIAN_GHOSTS",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Atlantis - CyberArmy - A.I.G",
+        "url": "https://t.me/atlantiscyberarmy",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Against The West",
+        "url": "https://t.me/atw2022",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AzzaSec",
+        "url": "https://t.me/azzasec_back",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "BaseLeak",
+        "url": "https://t.me/baseleeak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "BearITArmy",
+        "url": "https://t.me/BEARITARMY",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Checkers, Hacking Tools",
+        "url": "https://t.me/Bl4ck_Room",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "BlacksForums archive",
+        "url": "https://t.me/blackforumsarchive",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Blackforum",
+        "url": "https://t.me/blackforumsbf",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Blackshadow Hackers",
+        "url": "https://t.me/blackshadowhackers",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Blackvault",
+        "url": "https://t.me/blackvaultcc",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Bloodnet",
+        "url": "https://t.me/BLOODNET_RUS",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Bratva",
+        "url": "https://t.me/bratvacorp",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leak Monitor",
+        "url": "https://t.me/breachdetector",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "волчья свалка",
+        "url": "https://t.me/Bust3d",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "News",
+        "url": "https://t.me/canyoupwnme",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/cas_files",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/cbanke",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "CH01 group",
+        "url": "https://t.me/CHO1CHO1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "club1337",
+        "url": "https://t.me/cIub1337",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Civilan dark code",
+        "url": "https://t.me/civiliandarkcode404",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Combo List",
+        "url": "https://t.me/Combolistfresh",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Configs, Combos",
+        "url": "https://t.me/Configsandcombos",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Configs, Combos",
+        "url": "https://t.me/ConfigsServices",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Coup Team",
+        "url": "https://t.me/CoupTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Кибер-Партизаны (Cyber Partisans)",
+        "url": "https://t.me/cpartisans",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/crackcodes",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Crazy Hunters Team",
+        "url": "https://t.me/CrazyHuntersTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Ransomware gang"
+      },
+      {
+        "name": "Crew Combo Teams",
+        "url": "https://t.me/crewcomboteams",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Cristalline Forum",
+        "url": "https://t.me/cristallineforum",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Cyber Threat Intelligence Feeds",
+        "url": "https://t.me/ctifeeds",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "CVE Feed",
+        "url": "https://t.me/cveNotify",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/cyb3rtr0nian",
+        "url": "https://t.me/cyb3rtr0nian",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "News & Info Sharing",
+        "url": "https://t.me/cybdetective",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "[ Cyber.Anarchy.Squad ]",
+        "url": "https://t.me/cyber_anarchy_squad",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "CA XXII Hacktivist Gang",
+        "url": "https://t.me/cyberactiveXXII",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "CyberCourt Group (pro Palestine) - https://cybercourt.io",
+        "url": "https://t.me/cybercourt_io",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "Cyber Dragon Russia",
+        "url": "https://t.me/CyberDragonRussia",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Cyber Jihad Movement",
+        "url": "https://t.me/CyberJihadMovement",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Cyber Battle",
+        "url": "https://t.me/CyperBattle",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "D1rkSec",
+        "url": "https://t.me/D1rkSec",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Leaks & Breaches"
+      },
+      {
+        "name": "Devilzone 1 - configs, combos",
+        "url": "https://t.me/D3v1LZoNe",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/dailydarkweb",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Danger Zone Forum",
+        "url": "https://t.me/DangerZoneForum",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Forum"
+      },
+      {
+        "name": "Darkbit Channel",
+        "url": "https://t.me/DarkBitChannel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "News",
+        "url": "https://t.me/DarkfeedNews",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Dark Storm Team",
+        "url": "https://t.me/DarkStormTeamd",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/darxe_base",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Database Market",
+        "url": "https://t.me/databasemarkett",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/databreach",
+        "url": "https://t.me/databreach",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/dataflows",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/DataLeakHome",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/DBleak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "DDoS Services",
+        "url": "https://t.me/ddos_separ",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "DDoS Services",
+        "url": "https://t.me/ddossatmak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "DieNet Backup/News",
+        "url": "https://t.me/dienet2",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS & Data Breach"
+      },
+      {
+        "name": "DieNet",
+        "url": "https://t.me/DIeNlt",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Diplomat",
+        "url": "https://t.me/diplomatet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "DontLeakMyData",
+        "url": "https://t.me/dontleakmydata",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "DragonForce Malaysia",
+        "url": "https://t.me/dragonforceio",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Dumped forum",
+        "url": "https://t.me/DumpedOfficial",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Easy Cloud Logs Free",
+        "url": "https://t.me/easycloudlogsback0",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "Selling Accounts",
+        "url": "https://t.me/ehdanstock",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "8BASE",
+        "url": "https://t.me/eightbase",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Database Email Lists and Numbers Lists",
+        "url": "https://t.me/emailistsdatabase",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "Eternity Malware",
+        "url": "https://t.me/EternityMalwareTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Exodus Logs Market",
+        "url": "https://t.me/exodusmarketchannel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Exploit Service",
+        "url": "https://t.me/ExploitService",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Market",
+        "url": "https://t.me/flannels",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/FR3DENSOFSECURITY_2023",
+        "url": "https://t.me/FR3DENSOFSECURITY_2023",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Freshtools Market",
+        "url": "https://t.me/freshtoolsnet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Garuda Security",
+        "url": "https://t.me/garudasec4",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "GhostSec Service",
+        "url": "https://t.me/GhostSecS",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Ransomware, Exfiltration"
+      },
+      {
+        "name": "https://t.me/GitTools",
+        "url": "https://t.me/GitTools",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "DDoS",
+        "url": "https://t.me/gladdos69_official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "chat",
+        "url": "https://t.me/goblins_gang",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "hub links",
+        "url": "https://t.me/goblins_hub",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "GoneTeam",
+        "url": "https://t.me/GoneTeam410",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Gonjeshke Darande",
+        "url": "https://t.me/GonjeshkeDarand",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Goripool Codes",
+        "url": "https://t.me/goripoolcodes",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Phishing pages,panels"
+      },
+      {
+        "name": "https://t.me/grandgive",
+        "url": "https://t.me/grandgive",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Group Cracked",
+        "url": "https://t.me/groupcracked",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks (Gulf Region), Middle East Document Dumps",
+        "url": "https://t.me/gulfdocs",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Beregini",
+        "url": "https://t.me/hackberegini",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Hack Tricks",
+        "url": "https://t.me/hacker_trick",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "7 October Union",
+        "url": "https://t.me/hackerforse",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Offensive Security",
+        "url": "https://t.me/hackgit",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Team K70",
+        "url": "https://t.me/hackrsk70",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "https://t.me/HK4GANG",
+        "url": "https://t.me/HK4GANG",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Hooshyaran-e Vatan group",
+        "url": "https://t.me/hooshyarane",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Horus Evolution reserve",
+        "url": "https://t.me/horus_reservs",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Horus Forum",
+        "url": "https://t.me/HorusForumRus",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Horus Evolution",
+        "url": "https://t.me/horusteam_officiall",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Proxy service",
+        "url": "https://t.me/HQPROX",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/icrewhackers",
+        "url": "https://t.me/icrewhackers",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Illicit Service chat",
+        "url": "https://t.me/illsvcchat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Illicit Service Upload",
+        "url": "https://t.me/illsvcleaksupload",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Illicit Service",
+        "url": "https://t.me/illsvc",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/INDIAN_CYBER_FORCE",
+        "url": "https://t.me/INDIAN_CYBER_FORCE",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Industrial Spy",
+        "url": "https://t.me/Industrial_Spy",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Infinity Hackers By",
+        "url": "https://t.me/infinity_hackers_group",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Inteid",
+        "url": "https://t.me/inteid",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "https://t.me/itarmyofukraine2022",
+        "url": "https://t.me/itarmyofukraine2022",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "News",
+        "url": "https://t.me/itsecalert",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Jester Stealer Channel",
+        "url": "https://t.me/jester_stealer_channel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Infostealer"
+      },
+      {
+        "name": "Joker's world of Free Database",
+        "url": "https://t.me/jokersworlds",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "TEAM1910",
+        "url": "https://t.me/jokmajd",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "HomeLand Justice",
+        "url": "https://t.me/justice_homeland_original",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Homeland Justice",
+        "url": "https://t.me/justice_homeland",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "HomeLand Justice",
+        "url": "https://t.me/JusticeHomeland1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "KEDIRISECTEAM",
+        "url": "https://t.me/kedirisecteam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "KillMilk",
+        "url": "https://t.me/KillMillk",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Killnet mirror",
+        "url": "https://t.me/killnet_mirror",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "KillnetLATAM chat",
+        "url": "https://t.me/KillnetChatLATAM",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Killnet DDoS",
+        "url": "https://t.me/KILLNETddos",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Killnet Officiale (with invites for closed channel)",
+        "url": "https://t.me/Killneto",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "KittenSec",
+        "url": "https://t.me/kittensec",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "LAPSUS$ France",
+        "url": "https://t.me/lapsusfr",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Lazarus channel",
+        "url": "https://t.me/lazarus_apt18",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Low-Cost-Database",
+        "url": "https://t.me/LCdatabase",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "23andme Leak Database",
+        "url": "https://t.me/Leak_23andme",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "d3ltaboys group 2 (DB Leaks)",
+        "url": "https://t.me/leak_db2",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/leaked_databases",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "General hacking, Tutorials",
+        "url": "https://t.me/LearnExploit",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/LeaRNEXploIT",
+        "url": "https://t.me/LeaRNEXploIT",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/lefousamples",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Liquid Blood",
+        "url": "https://t.me/Liquid_Blood",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "LockBit APT",
+        "url": "https://t.me/LockBit_APT",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Logs",
+        "url": "https://t.me/logsgang2",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "SH7 G4NG",
+        "url": "https://t.me/lulzsecmuslimsworld",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Moroccan Black Cyber Army",
+        "url": "https://t.me/M0roccan_Black_CyberArmy",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS & Data Breach"
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/marketo_leaks",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Ransomware Gang",
+        "url": "https://t.me/MBCRANSOMWARE",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/membersofxaknet",
+        "url": "https://t.me/membersofxaknet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Meris botnet",
+        "url": "https://t.me/meris_botnet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Metastealer Officiale",
+        "url": "https://t.me/metastealer_official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Infostealer"
+      },
+      {
+        "name": "MexicanMafia Announcement",
+        "url": "https://t.me/MexicanMafiaTheShit",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "Milad Leaks",
+        "url": "https://t.me/MiladLeaks",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/milkdude",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "mlcloud_hosting_news",
+        "url": "https://t.me/mlcloud_hosting_news",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data breach MlCloud BPH"
+      },
+      {
+        "name": "DB / Data Leak Search Engine",
+        "url": "https://t.me/naosbase",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/ndtgroup_kh",
+        "url": "https://t.me/ndtgroup_kh",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "NetHunt3r Group (pro Palestine)",
+        "url": "https://t.me/NetHunt3r",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "General Hacking, Privacy",
+        "url": "https://t.me/NetSurvivalist",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "New Blood Project",
+        "url": "https://t.me/NewBlood_Project",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "NIGHTMARE",
+        "url": "https://t.me/nightmare_hacker",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "NoName057(16) Eng_vers",
+        "url": "https://t.me/nnm05716english",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "PE3EPBNNNM057",
+        "url": "https://t.me/+Ujf-93Ce5Lo5ZGE0",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "PE3EPBNNNM057",
+        "url": "https://t.me/+JJWRiS8ab1FmZGI0",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "TwoNet",
+        "url": "https://t.me/TwoNetchannel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "BaphometOfficial",
+        "url": "https://t.me/OfficialBaphomet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/OnePlusChat",
+        "url": "https://t.me/OnePlusChat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/openleak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "OsintCorp Group Chat",
+        "url": "https://t.me/Osintcorp_chat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Patriot Black Matrix",
+        "url": "https://t.me/Patriot_Black_x",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/peass",
+        "url": "https://t.me/peass",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "PHANTOM DEV",
+        "url": "https://t.me/phantom_tg",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Phantom Atlas",
+        "url": "https://t.me/PhantomAtlasOfficial",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS & Data Breach"
+      },
+      {
+        "name": "PHOENIX",
+        "url": "https://t.me/phoenix_inform",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Phoenix group",
+        "url": "https://t.me/phoenixinform",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Phorcy Stealer",
+        "url": "https://t.me/Phorcy",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Infostealer"
+      },
+      {
+        "name": "PrivateCompanyPirates",
+        "url": "https://t.me/PrivateCompanyPirates",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "Overflame",
+        "url": "https://t.me/privetOTof223",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Exploits, Hacking and Leaks",
+        "url": "https://t.me/proxy_bar",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/ProxyMTProto",
+        "url": "https://t.me/ProxyMTProto",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/pwnwiki_zhchannel",
+        "url": "https://t.me/pwnwiki_zhchannel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/qZann",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "R00tk1t DB",
+        "url": "https://t.me/R00TK1TDB",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "RADNET64",
+        "url": "https://t.me/radnetbak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Claims to be the backup channel of RaidForums",
+        "url": "https://t.me/raidsecretforums",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Ralf Hacker Channel",
+        "url": "https://t.me/RalfHackerChannel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "RansomTeam  Chat",
+        "url": "https://t.me/RansomTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Ransomware Team",
+        "url": "https://t.me/RansomwareTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/ransomwatcher",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Rdp Stealer",
+        "url": "https://t.me/rdpstealer",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Infostealer"
+      },
+      {
+        "name": "RGB Team (https://rgb-team.com)",
+        "url": "https://t.me/russiagoodbuy_rgb_team",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "Configs, combos",
+        "url": "https://t.me/sanaski",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ShadowHacker Leaks",
+        "url": "https://t.me/shadowleakss",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Shadow Seekers",
+        "url": "https://t.me/shadowseekers5",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak"
+      },
+      {
+        "name": "https://t.me/shieldteam1",
+        "url": "https://t.me/shieldteam1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "0% Privacy",
+        "url": "https://t.me/ShizoPrivacy",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AiDLocker Group Data Leaks Channel",
+        "url": "https://t.me/slivaidlocker",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Erernity Team Redline Stealer",
+        "url": "https://t.me/slivnoviy123",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Infostealer"
+      },
+      {
+        "name": "Snatch ransomware gang",
+        "url": "https://t.me/snatch_info",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Ransomware, Exfiltration"
+      },
+      {
+        "name": "Snatch Team (Ransomware Gang)",
+        "url": "https://t.me/snatch_news",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Sandworm",
+        "url": "https://t.me/solntsepekZ",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Spider-X",
+        "url": "https://t.me/SpidrXXX",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "KILLNET # РЕЗЕРВ",
+        "url": "https://t.me/SSSO_Official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Stealer Store",
+        "url": "https://t.me/StealerStore",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Infostealer"
+      },
+      {
+        "name": "Mapper (former STK Database)",
+        "url": "https://t.me/stkdatabase",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "INDONESIAN CYBER OF SULAWESI TENGAH BLACKHAT",
+        "url": "https://t.me/sultengblackhat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Leaks & Breaches"
+      },
+      {
+        "name": "SumatraUtara",
+        "url": "https://t.me/SumatraUtaraCyberTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Illicit Service",
+        "url": "https://t.me/t_darknet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Bots",
+        "url": "https://t.me/tbotlist",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "1915 team",
+        "url": "https://t.me/TE1915",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "TEAM1916",
+        "url": "https://t.me/team1916",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AnonSec",
+        "url": "https://t.me/TeamAnonSec",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Illicit Service",
+        "url": "https://t.me/TeamDemon",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Team Imm0rtal channel",
+        "url": "https://t.me/teamimm0rtal",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "News",
+        "url": "https://t.me/techpwnews",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "SECurityTr8Ker",
+        "url": "https://t.me/TG_SECurityTr8Ker",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "SEC's RSS feed monitor"
+      },
+      {
+        "name": "Source Code Dumps",
+        "url": "https://t.me/the_archivists_domain",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "The Brotherhood",
+        "url": "https://t.me/thebrotherhoodcorp",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Ransomware Gang"
+      },
+      {
+        "name": "The Moskovski Times",
+        "url": "https://t.me/TheMoskovskiTimes",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "ThreatSec",
+        "url": "https://t.me/ThreatSec",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "The fastest Telegram proxies",
+        "url": "https://t.me/Turbotelproxy",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Ransomware Gang",
+        "url": "https://t.me/udacha123yes",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Devilzone (2) - configs, combos, etc",
+        "url": "https://t.me/V3TerN",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Vulture",
+        "url": "https://t.me/vulture_001",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "https://t.me/vulzsec_official",
+        "url": "https://t.me/vulzsec_official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "https://t.me/We_are_not_eternal",
+        "url": "https://t.me/We_are_not_eternal",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "WE ARE KILLNET",
+        "url": "https://t.me/WeAreKillnet_Channel",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "WE ARE KILLNET +",
+        "url": "https://t.me/WeAreKillnet_Official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Hacking, Privacy",
+        "url": "https://t.me/webpwn",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "WeedSec",
+        "url": "https://t.me/weedforumslol",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Windef",
+        "url": "https://t.me/win_def",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Data Leaks",
+        "url": "https://t.me/windmarketo",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "WWH Forum",
+        "url": "https://t.me/wwhsmi",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Pro Team Channe",
+        "url": "https://t.me/www_paypal",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "xaknet",
+        "url": "https://t.me/xaknet_team",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "(Dead)XInject Information Channel",
+        "url": "https://t.me/xinject_official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ZenData Database Market",
+        "url": "https://t.me/zendatamarket",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ZeroDay Forums",
+        "url": "https://t.me/zerodayforums",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Zeroday Market",
+        "url": "https://t.me/zerodaymarkets",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Exploit sell"
+      },
+      {
+        "name": "ZulikGroup Chat",
+        "url": "https://t.me/ZulikGroupChat",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ZulikGroup",
+        "url": "https://t.me/ZulikGroupTG",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "INTEID",
+        "url": "https://t.me/+GeILA8S0Bk4wYmRi",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "313TEAM",
+        "url": "https://t.me/xX313XxTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "OBSCURION",
+        "url": "https://t.me/+Lj3K9WgZFrxkNDY1",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Cyber Jihad Movement",
+        "url": "https://t.me/CyberJihadMovement",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Tunisian Maskers Cyber Force",
+        "url": "https://t.me/CyberforceTn",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "DarkNess7",
+        "url": "https://t.me/DarkfireDragon7",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "HiddenEyesTeam",
+        "url": "https://t.me/HiddenEyesTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Coup Team",
+        "url": "https://t.me/CoupTeam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Garuna Ops",
+        "url": "https://t.me/+XhceuAZW9QJkOWJl",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Garuna Ops",
+        "url": "https://t.me/garunaops",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Predatory Sparrow",
+        "url": "https://t.me/PredatorySparrowIL",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Holy League",
+        "url": "https://t.me/Mhwear96",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "62IX Group",
+        "url": "https://t.me/ru_62IX",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Assassins",
+        "url": "https://t.me/Assasins_Official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "HIME666",
+        "url": "https://t.me/revolusihime666",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Fredens of Security",
+        "url": "https://t.me/fredenscombos",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "combos"
+      },
+      {
+        "name": "Sumatra Utara Cyber Team",
+        "url": "https://t.me/+HG32VQZ93-4zMjE1",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "ckeArsenal",
+        "url": "https://t.me/ckeArsenal",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "National Security - To Destroy Israel",
+        "url": "https://t.me/X8ZZX",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "AKULAv2",
+        "url": "https://t.me/+i2FG331VOjA0ODE1",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "APT IRGC",
+        "url": "https://t.me/APTIRGC",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "team fearless 🇵🇸",
+        "url": "https://t.me/T34M_F34RL3SS",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Golden Falcon",
+        "url": "https://t.me/Golden_falcon_team",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Lực Lượng Đặc Biệt Quân Đội Điện Tử",
+        "url": "https://t.me/AnonymousVNLBN99",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Garuda Error system",
+        "url": "https://t.me/+ZMoidrbayTgyMzQ9",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Anonymous Guys",
+        "url": "https://t.me/AnonymousGuys0",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "BL4CK CYB3R",
+        "url": "https://t.me/bl4ck_cyb3r",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "NXBB SEC",
+        "url": "https://t.me/nxbbsec",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "UNIT NINE",
+        "url": "https://t.me/unitninee",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "STUXNET - ستوكسنت",
+        "url": "https://t.me/xstuxnet",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "OXO News HN",
+        "url": "https://t.me/OXO_News_HN",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Tanjiro DDoS Botnet Service",
+        "url": "https://t.me/mrtanjirox",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "🐻Desinformador ruso👁‍🗨",
+        "url": "https://t.me/musicarusaesp",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "KillNet Syndicate",
+        "url": "https://t.me/KillNetSyndicate",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "UserSec # KillNet",
+        "url": "https://t.me/usersecc",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Вассал Джокера",
+        "url": "https://t.me/vassal_of_the_Joker",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Sector16/S16 #Killnet",
+        "url": "https://t.me/+hSH4gfaaAOA4YzY6",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "DataLeaky",
+        "url": "https://t.me/+1R9pU3u-9ac0ZmZl",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      },
+      {
+        "name": "Перун Сварога",
+        "url": "https://t.me/perunswaroga",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      },
+      {
+        "name": "Vulture",
+        "url": "https://t.me/vulture_001",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Unknowns Cyber Team",
+        "url": "https://t.me/unknowns_cyberteam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Electronic Army Special Forces",
+        "url": "https://t.me/AnonymousVNLBN99",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Islamic Hacker Army",
+        "url": "https://t.me/islamic_hacker_army1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      },
+      {
+        "name": "ANON X FEARLESS",
+        "url": "https://t.me/ANONXF34RL3SS",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Server Killers",
+        "url": "https://t.me/xServerKillers",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Digital Ghost",
+        "url": "https://t.me/digitalsghost",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "BAQIYATLock RaaS",
+        "url": "https://t.me/BQTlock_raas",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Ransomware Gang"
+      },
+      {
+        "name": "Nullsec Philippines",
+        "url": "https://t.me/nullsechackers",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Data Breach (related to ShinyHunters)",
+        "url": "https://t.me/leaksdatabreach",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Ktama Official",
+        "url": "https://t.me/Ktama_Official",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "RATs"
+      },
+      {
+        "name": "Hazardous Cyber Team",
+        "url": "https://t.me/hazardouscyberteam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Defacements"
+      },
+      {
+        "name": "Database Catalog",
+        "url": "https://t.me/dropleak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data leaks and Combo lists"
+      },
+      {
+        "name": "Keymous+ (backup)",
+        "url": "https://t.me/+S_ajHerTbKUwYTA0",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Gang Exposed Chat",
+        "url": "https://t.me/gangexposed_eng",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Hyder_N3x Buckup Channel",
+        "url": "https://t.me/+DdTJZYISZSs0MzRk",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "BreachStars",
+        "url": "https://t.me/breachstars",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leak (related to Scattered Spider/$Lapsus)"
+      },
+      {
+        "name": "Tor Zireael",
+        "url": "https://t.me/TorZireael1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Scattered Lapsus$ Hunter 6.0",
+        "url": "https://t.me/scatteredLapsus",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "NET-WORKER",
+        "url": "https://t.me/networker_apt",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "M3cr0byte",
+        "url": "https://t.me/+TdDrDmT9untmYWQ8",
+        "status": "VALID",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "HannibalMAA LE4kS",
+        "url": "https://t.me/hannibalmaaleaks",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      },
+      {
+        "name": "Bitten Forums",
+        "url": "https://t.me/bittenforumsofficial",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Forum"
+      },
+      {
+        "name": "The Jacuzzi",
+        "url": "https://t.me/jacuzzidf",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Unknowns Cyber Team",
+        "url": "https://t.me/unknowns_cyberteam",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "scattered LAPSUS$ hunters part 7",
+        "url": "https://t.me/smokinmandiant",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "related to Scattered Spider"
+      },
+      {
+        "name": "scattered LAPSUS$ hunters part 7 Chat",
+        "url": "https://t.me/comefacediswood",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "related to Scattered Spider"
+      },
+      {
+        "name": "Discord",
+        "url": "https://t.me/disc_hack",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "related to Discord data breach"
+      },
+      {
+        "name": "Cyber Blitz",
+        "url": "https://t.me/Cyb3rBlitz",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Kal Egy 319",
+        "url": "https://t.me/KALOSHA319",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "LunarisSec",
+        "url": "https://t.me/lunarisS3C/",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      },
+      {
+        "name": "Dark Storm Team",
+        "url": "https://t.me/Darkstormteamback",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Breachforum CDN",
+        "url": "https://t.me/breachfiles",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "DL Database catalog",
+        "url": "https://t.me/dropleak",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "Data leaks: Merged with HIDER_NIX",
+        "url": "https://t.me/MR_X10_SY",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "IT Army Of Russia",
+        "url": "https://t.me/itarmyofrussianews",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": ""
+      },
+      {
+        "name": "Kazu Breach",
+        "url": "https://t.me/kazu_breach",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Ransomware gang"
+      },
+      {
+        "name": "NOTRASEC TEAM",
+        "url": "https://t.me/+4_csOQoIe5s4NDU1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "Team NotraSec Public",
+        "url": "https://t.me/+VPk9npexOc4wYTg1",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Breach"
+      },
+      {
+        "name": "WeLeakLabs",
+        "url": "https://t.me/weleaklabs",
+        "status": "ONLINE",
+        "type": "telegram",
+        "attack_type": "Data Leaks"
+      }
+    ],
+    "twitter": [
+      {
+        "name": "Description",
+        "url": "Link",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Category"
+      },
+      {
+        "name": "------",
+        "url": "------",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "------"
+      },
+      {
+        "name": "Lockbit",
+        "url": "https://x.com/lockbitsupp",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "NullBulge",
+        "url": "https://x.com/NullBulgeGroup",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "Nitrogen",
+        "url": "https://x.com/NitrogenSupp",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "Anubis",
+        "url": "https://x.com/Anubis__media",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "8BASE",
+        "url": "https://x.com/8BASEH0ME",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "Al Toufan Team",
+        "url": "https://x.com/altoufanteam",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "keymous+",
+        "url": "https://x.com/KeymousTeam",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Hasan (Breach Forums)",
+        "url": "https://x.com/sextorts",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "RuskiNet",
+        "url": "https://x.com/RuskiNetGroup",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "Akatsuki Cyber Team",
+        "url": "https://x.com/SkBoss484479",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "Dark Storm",
+        "url": "https://x.com/darkteam849423",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Conti",
+        "url": "https://x.com/PsExec64",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "Rey - HellCat",
+        "url": "https://x.com/reyxbf",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "NoName056",
+        "url": "https://x.com/Noname05716",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "IMN Crew",
+        "url": "https://x.com/IMN_Crew",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "PRYX - HellCat",
+        "url": "https://x.com/holypryx",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "Gonjeshke Darande",
+        "url": "https://x.com/GonjeshkeDarand",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Data BReaches"
+      },
+      {
+        "name": "DevMan",
+        "url": "https://x.com/Inifintyink",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "Wazawka  (Mikhail Matvee)",
+        "url": "https://x.com/ransomboris",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "BL🩸🩸DY",
+        "url": "https://x.com/BLOODY48139604",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "RuskiNet Group Cyber Mujahid Of Allah",
+        "url": "https://x.com/RuskiNetGroup",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "OFFLINE"
+      },
+      {
+        "name": "tengu",
+        "url": "https://x.com/TenguRaaS",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "Ransomware"
+      },
+      {
+        "name": "Golden Falcon",
+        "url": "https://x.com/golden_falcon3",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Team Fearless",
+        "url": "https://x.com/PROTEAMFEARLESS",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "RootDDoS",
+        "url": "https://x.com/RooTDoS",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Akatsuki cyber team",
+        "url": "https://x.com/SkBoss484479",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "STUCX TEAM",
+        "url": "https://x.com/stucxnet",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": ""
+      },
+      {
+        "name": "Server Killers",
+        "url": "https://x.com/Server_Killers",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Mr Hamza",
+        "url": "https://x.com/MrHamza_Op",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "DieNet",
+        "url": "https://x.com/D1eNet",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Red Wolf Cyber",
+        "url": "https://x.com/red_wolf_cyber",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      },
+      {
+        "name": "Hezi Rash",
+        "url": "https://x.com/hezi_rash",
+        "status": "ONLINE",
+        "type": "twitter",
+        "attack_type": "DDoS"
+      }
+    ],
+    "ransomware": [
+      {
+        "name": "RansomChats",
+        "url": "https://github.com/Casualtek/Ransomchats",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Ransomfeed",
+        "url": "https://ransom.insicurezzadigitale.com/index.php",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOM DB",
+        "url": "https://www.ransom-db.com",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMWARE GROUP SITES (list)",
+        "url": "https://ransomwatch.telemetry.ltd/#/INDEX",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMWARE GROUP SITES (list)",
+        "url": "http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMWARE GROUP SITES (list)",
+        "url": "http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMWARE GROUPS MONITORING TOOL",
+        "url": "https://www.ransomlook.io/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMWARE GROUPS MONITORING TOOL",
+        "url": "https://www.ransomware.live/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMNEWS",
+        "url": "https://ransomnews.online",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "0X Thief",
+        "url": "https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "0mega (Dark)",
+        "url": "http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ThreeAM",
+        "url": "http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "8BASE",
+        "url": "http://92.118.36.204",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "8BASE",
+        "url": "http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "8BASE",
+        "url": "http://xfycpauc22t5jsmfjcaz2oydrrrfy75zuk6chr32664bsscq4fgyaaqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Abrahams Ax (Dark)",
+        "url": "http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Abrahams Ax (Deep)",
+        "url": "https://abrahams-ax.se",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ABYSS",
+        "url": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Akira",
+        "url": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Akira (Victims request ID page)",
+        "url": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ALPHV (aka BlackCat 2)",
+        "url": "http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ALPHV (collection data leaks)",
+        "url": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ANUBIS",
+        "url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Apos Security",
+        "url": "https://apos.blog",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Apos Security",
+        "url": "http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (ERALEIG - Dark)",
+        "url": "http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (ERALEIG - Dark)",
+        "url": "http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (ERALEIG - Dark)",
+        "url": "http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (ERALEIG - Dark)",
+        "url": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (BASHEE)",
+        "url": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (BASHEE)",
+        "url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (BASHEE)",
+        "url": "http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (BASHEE)",
+        "url": "http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "APT73 (BASHEE)",
+        "url": "http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ARACHNA LEAK",
+        "url": "http://ptyctpveqfevlukjw4hpdh6nb5oiemq6ek6tuuvxbtrfghvuutvscsid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ARCUS MEDIA",
+        "url": "https://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ARGONAUTS",
+        "url": "http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ARKANA",
+        "url": "http://arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ARVIN",
+        "url": "http://arvinc7prj6ln5wpd6yydfqulsyepoc7aowngpznbn3lrap2aib6teid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "AVOS",
+        "url": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "AVOS (Victims request ID page)",
+        "url": "http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BABUK",
+        "url": "http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BABUK v2",
+        "url": "http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BASHE",
+        "url": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BEAST",
+        "url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BENZONA",
+        "url": "http://benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BERT",
+        "url": "http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BIANLIAN",
+        "url": "http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BIANLIAN",
+        "url": "http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BIANLIAN",
+        "url": "http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BIANLIAN (I2P mirror)",
+        "url": "http://epovhlzpj3grgld7vxr2mnk33dz5rdb4kdcp44f5r527rvhwhxna.b32.i2p",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BIT/LOLKEK/GLOBEIMPOSTER (Support page)",
+        "url": "mmcbkgua72og66w4jz3qcxkkhefax754pg6iknmtfujvkt2j65ffraad[.]onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKBASTA",
+        "url": "http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKBASTA (Victims request ID Page)",
+        "url": "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKBYTE (5)",
+        "url": "http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKBYTE (6)",
+        "url": "http://53d5skw4ypzku4bfq2tk2mr3xh5yqrzss25sooiubmjz67lb3gdivcad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKBYTE (7)",
+        "url": "http://dounczge5jhw4iztnnpzp54kd4ot3tikhjsimurtcewqssgye6vvrhqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKOUT",
+        "url": "http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACKSHRANTAC",
+        "url": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLACK SUIT",
+        "url": "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLUE SKY (Victims request ID Page)",
+        "url": "http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BLUEBOX",
+        "url": "http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BQTLOCK",
+        "url": "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER",
+        "url": "http://77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER",
+        "url": "http://p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER",
+        "url": "http://brain4zoadgr6clxecixffvxjsw43cflyprnpfeak72nfh664kqqriyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER",
+        "url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER (File Server)",
+        "url": "http://xbg52c5agytmtjpwfu7mrs4xtaitc4mukkiy2kqdxeqbcmuhaid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER (File Server)",
+        "url": "http://4ldgw2wuidqu5ef3rzx4byonf3y7rdnh43jiw2z4sbtjiwic6gkov7yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BRAIN CIPHER (File Server)",
+        "url": "http://zktnif5vckhmz5tyrukp5bamatbfhkxjnb23rspsanyzywcrx3bvtqad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "BROTHERHOOD",
+        "url": "http://brohoodyaifh2ptccph5zfljyajjabwjjo4lg6gfp4xb6ynw5w7ml6id.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CACTUS",
+        "url": "https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CEPHALUS",
+        "url": "http://cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CHAOS",
+        "url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CHORT",
+        "url": "http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CICADA3301",
+        "url": "http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CIPHBIT",
+        "url": "http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CLOAK",
+        "url": "http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CLOP",
+        "url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CLOP (torrents)",
+        "url": "http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "COINBASE CARTEL",
+        "url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CRAZY HUNTER TEAM",
+        "url": "http://7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CRYPTBB",
+        "url": "http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CRYPTNET",
+        "url": "http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CRYPTNET (Victims request ID Page)",
+        "url": "http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CRYPTO24",
+        "url": "http://j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CUBA",
+        "url": "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CyphBit",
+        "url": "http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "CYCLOPS",
+        "url": "http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion/blogs/79b2eb61-97e2-4a2e-81f8-1c1d45c3b59c",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Cyberfeeddigest",
+        "url": "http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "D4rk4rmy",
+        "url": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DAIXIN",
+        "url": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DAN0N",
+        "url": "http://2c7nd54guzi6xhjyqrj5kdkrq2ngm2u3e6oy4nfhn3wm3r54ul2utiqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DARK ANGELS",
+        "url": "http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DARK VAULT (mirror 1)",
+        "url": "http://5vphklgizbimeq5l4yt274p533fgirhqnjhjuppcp2ibteavmro5fzad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DARK VAULT (mirror 2)",
+        "url": "http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DARK VAULT (blog)",
+        "url": "http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DATA CARRY",
+        "url": "http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DESOLATOR",
+        "url": "http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DevMan",
+        "url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DIRE WOLF",
+        "url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DISPOSSESSOR (Dark)",
+        "url": "http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DISPOSSESSOR (Deep)",
+        "url": "https://radar.ltd/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DONEX",
+        "url": "http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DONUT BLOG",
+        "url": "http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DONUT DLS (new)",
+        "url": "http://dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DRAGON FORCE",
+        "url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "DUNGHILL",
+        "url": "http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ECH0RAIX",
+        "url": "http://7zvu7njrx7q734kvk435ntuf37gfll2pu46fmrfoweczwpk2rhp444yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "EL DORADO/BLACKLOCK",
+        "url": "http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "EMBARGO",
+        "url": "http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "EVEREST",
+        "url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FOG",
+        "url": "http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FOG",
+        "url": "http://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FRAG",
+        "url": "http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FSOCIETY",
+        "url": "http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FS-TEAM",
+        "url": "http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FULCRUMSEC",
+        "url": "http://gsgot6tua7ffammwdv6vpxkog32b4z7qivtqkxz55afq2hkt2o24w5yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FUNKSEC",
+        "url": "http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "FUNKSEC",
+        "url": "http://funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "GD LOCKERSEC",
+        "url": "http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "GENESIS",
+        "url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "GLOBAL",
+        "url": "http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "GUNRA",
+        "url": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HANDALA",
+        "url": "https://handala.to",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HANDALA",
+        "url": "https://handala-hack.to",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HANDALA",
+        "url": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HELLDOWN",
+        "url": "http://onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HELLCAT",
+        "url": "http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HELLCAT",
+        "url": "http://hellcat.rw",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HELLO GOOKIE",
+        "url": "http://gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HUNTERS INTERNATIONAL",
+        "url": " https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HUNTERS INTERNATIONAL",
+        "url": "https://hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "HUNTERS INTERNATIONAL (Victim Site)",
+        "url": "https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "IMN CREW",
+        "url": "http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "INC RANSOM",
+        "url": "http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "INC RANSOM - new",
+        "url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "INC RANSOM (Deep)",
+        "url": "http://incapt.su/blog/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "INC RANSOM (new - Deep)",
+        "url": "http://inblog.su/blog/disclosures",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "INSANE",
+        "url": "http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "INTERLOCK",
+        "url": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "J GROUP",
+        "url": "http://twniiyed6mydtbe64i5mdl56nihl7atfaqtpww6gqyaiohgc75apzpad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "J GROUP",
+        "url": "http://w4d5aqmdxkcsc2xwcz7w7jo6wdmvmakgy3y6mfmdtzmyvxe77cjkfbad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KAIROS",
+        "url": "http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KARAKURT (chat panel)",
+        "url": "https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KARAKURT (Dark)",
+        "url": "https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KAWA",
+        "url": "http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KAZU",
+        "url": "http://6czlbd2jfiy6765fbnbnzuwuqocg57ebvp3tbm35kib425k4qnmiiiqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KELVIN SECURITY",
+        "url": "https://vipsuscription.org",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KILLSEC",
+        "url": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Kill Security 3.0",
+        "url": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KNIGHT (ex CYCLOPS)",
+        "url": "http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Kraken",
+        "url": "http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KRYPTOS",
+        "url": "http://kryptospnjzz7vfkr663bnqv3dxirmr3svo5zwq7cvu2wdfngujgknyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "KYBER",
+        "url": "http://kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LAMBDA (Victim Site)",
+        "url": "http://nn5ua7gc7jkllpoztymtfcu64yjm7znlsriq3a6v5kw7l6jvirnczyyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LEAKED DATA",
+        "url": "http://business-data-leaks.com",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LEAKNET",
+        "url": "http://nleakk6sejx45jxtk7x6iyt65hwvfrkifc5v7ertdlwm3gttbpvlvxqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LINKC",
+        "url": "http://iywqjjaf2zioehzzauys3sktbcdmuzm2fsjkqsblnm7dt6axjfpoxwid.onion/article",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 1)",
+        "url": "http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 2)",
+        "url": "http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 3)",
+        "url": "http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 4)",
+        "url": "http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 5)",
+        "url": "http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 6)",
+        "url": "http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 7)",
+        "url": "http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (Dark mirror 8)",
+        "url": "http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (\"Leaked Data\")",
+        "url": "http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (\"Leaked Data\")",
+        "url": "http://lockbit33chewwx25efq6dgkhkw4u7nefudq4ijkuamjfd7x73on6dyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (\"File Share\")",
+        "url": "http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (\"Private Note\")",
+        "url": "http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (\"Private Note\")",
+        "url": "http://lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 1)",
+        "url": "http://lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 2)",
+        "url": "http://lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 3)",
+        "url": "http://lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 4)",
+        "url": "http://lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 5)",
+        "url": "http://lockbit4lahhluquhoka3t4spqym2m3dhe66d6lr337glmnlgg2nndad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 6)",
+        "url": "http://lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (New Dark mirror 7)",
+        "url": "http://lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (from June 2024)",
+        "url": "http://ofj3oaltwaf67qtd7oafk5r44upm6wkc2jurpsdyih2c7mbrbshuwayd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (from July 2024)",
+        "url": "http://lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (from July 2024)",
+        "url": "http://lockbitw2ygzasbt35ffpdb46r4vkej6flm3siyabaxzdodwpiatfgqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbit23xxhej7swdop24cru7ks2w66pw7zgdkydqo6f7wfyfqo7oqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbit7ixelt7gn3ynrs3dgqtsom6x6sd2ope4di7bu6e6exyhazeyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbitck6escin3p33v3f5uef3mr5fx335oyqon2uqoyxuraieuhiqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbitfhzimjqx2v7p2vfu57fpdm5zh2vsbfk5jkjod3k5pszbek7ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbiti7ss2wzyizvyr2x46krnezl4xjeianvupnvazhbqtz32auqqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbitkwkmhfb2zr3ngduaa6sd6munslzkbtqhn5ifmwqml4sl7znad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 3.0 (chat)",
+        "url": "http://lockbitqfj7mmhrfa7lznj47ogknqanskj7hyk2vistn2ju5ufrhbpyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 4.0 Control Panel",
+        "url": "http://lockbitapyx2kr5b7ma7qn6ziwqgbrij2czhcbojuxmgnwpkgv2yx2yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 4.0 Control Panel",
+        "url": "http://lockbitapyum2wks2lbcnrovcgxj7ne3ua7hhcmshh3s3ajtpookohqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 4.0 Control Panel",
+        "url": "http://lockbitapp24bvbi43n3qmtfcasf2veaeagjxatgbwtxnsh5w32mljad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 4.0 Control Panel",
+        "url": "http://lockbitapo3wkqddx2ka7t45hejurybzzjpos4cpeliudgv35kkizrid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOCKBIT 4.0 Control Panel",
+        "url": "http://lockbitapiahy43zttdhslabjvx4q6k24xx7r33qtcvwqehmnnqxy3yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LORENZ",
+        "url": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LOST TRUST",
+        "url": "http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogxstgzsarfyk2pvhdv45igghb4zmthnzmsipzeoduruz3xwqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogco7r37jt7p5wrmfxzqze7ghxw6rihzkqc455qluacwotciyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogijy4jfoblgix2klxmkbgee4leoeuge7qt4fpfkj4zbi2sjyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogmx3rbiwg3rpj4nds25hjsnrwkpxt5gaznetfikz4gz2csyad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogoxllth4b46cfwlop5pfj4s7dyv37yuy7qn2ftan6gd72hsad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogtwatfsrwj3oatpejwxk5bngqcd5f7s26iskagfu7ouaomjad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LYNX",
+        "url": "http://lynxblog.net/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "LUNALOCK",
+        "url": "http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MAD LIBERATOR",
+        "url": "http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Mamona RANSOMWARE",
+        "url": "http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Mamona RANSOMWARE (Victims page)",
+        "url": "http://bdhjur3agrogoxvwobbzpptkxhyewnjrhzqj4ug2dyfhf3dopyvvurid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MALAS",
+        "url": "http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MALEKTEAM",
+        "url": "https://malekteam.ac",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MALLOX",
+        "url": "http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Metaencryptor",
+        "url": "metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA LOCKER (Victims page)",
+        "url": "http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://dlmfciajg5s4vliyo5dhs5jyzhi2xr2fnkebul46lpf4xudtqiue4nid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEDUSA",
+        "url": "http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MEOW",
+        "url": "http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "METAENCRYPTER",
+        "url": "http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MIGA",
+        "url": "http://q7gmt7pbo4rrt27ydkiv2kxd7cimhztq2x7hzd557jthhu5zp6ujieid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MOGILEVICH",
+        "url": "http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MONEYMESSAGE",
+        "url": "http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MONTI",
+        "url": "http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MORPHEUS",
+        "url": "http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Moses Staff (Deep)",
+        "url": "http://moses-staff.se",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "MYDATA / ALPHA LOCKER",
+        "url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NASIR",
+        "url": "http://yzcpwxuhbkyjnyn4qsf4o5dkvu6m2fyo7dwizmnlutanlmzlos7pa6qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NASIR",
+        "url": "http://nasir.cc",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NIGHT SPIRE",
+        "url": "http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NITROGEN",
+        "url": "http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NoEscape",
+        "url": "http://noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NoEscape (Victims Page)",
+        "url": "http://noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NOKOYAWA",
+        "url": "http://nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NONAME",
+        "url": "http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NOVA",
+        "url": "http://novaxtychr6ohlc4zr5its73p6i7unpuhpwoodtzrg2y4w4seytatlid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NOVA",
+        "url": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "NULLBULGE",
+        "url": "https://nullbulge.co/blog.html",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "OBSCURA",
+        "url": "http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ORCA",
+        "url": "http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "OX THIEF",
+        "url": "http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Payouts King",
+        "url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "PEAR",
+        "url": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "PLAY",
+        "url": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "PLAY",
+        "url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "PLAYBOY",
+        "url": "http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "PRYX (deep web)",
+        "url": "http://pryx.cc",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "PRYX (dark web)",
+        "url": "http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "QILIN",
+        "url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "QIULONG",
+        "url": "http://62brsjf2w77ihz5paods33cdgqnon54gjns5nmag3hmqv6fcwamtkmad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "QUANTUM",
+        "url": "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RA GROUP",
+        "url": "http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RA GROUP (Storage Server)",
+        "url": "http://hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMCORTEX",
+        "url": "http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RAWORLD",
+        "url": "http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RABBIT HOLE",
+        "url": "http://z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RADAR",
+        "url": "http://3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid.onion/leaked-data",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RADIANT",
+        "url": "http://trfqksm6peaeyz4q6egxbij5n2ih6zrg65of4kwasrejc7hnw2jtxryd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RAGNAR LOCKER",
+        "url": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://ralord3htj7v2dkavss2hjzviviwgsf4anfdnihn5qcjl6eb5if3cuqd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://ralordt7gywtkkkkq2suldao6mpibsb7cpjvdfezpzwgltyj2laiuuid.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://novatd4577pzlvdyy42slydhrhru7fpcflbbxlajcmbfrgzyeis6d3id.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://novag4k2te3mstt2xq5irywlpaw6edgkpiwgg4t2q7eecisj2qqtvbid.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://novaoddh3vxylxqpsfdjprliknbzgbkv6nkazpzu3cvykrgpyzuywryd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://vctmy3tytuah2offux4bixzunh53pnepsnsrr2hly6blpgiewqodnzad.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord",
+        "url": "http://leak7y2247fj7dbb35rpfyxuyaqtwbshiwxp6h35ttzlhrxmhvi4fead.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RALord (AFFILIATES)",
+        "url": "http://novazzitmugtbjwuttc5hhsemkmvwh3iyt27oeeunu5mkw62qpfeykid.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOM BAY",
+        "url": "http://rrrbay3nf4c2wxmhprc6eotjlpqkeowfuobodic4x4nzqtosx3ebirid.onion/news",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMEXX",
+        "url": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOM HOUSE",
+        "url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOM HUB",
+        "url": "http://ijbw7iiyodqzpg6ooewbgn6mv2pinoer3k5pzdecoejsw5nyoe73zvad.onion/blog",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOM HUB",
+        "url": "http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOM HUB Archives",
+        "url": "http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMED (Dark Web)",
+        "url": "http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMED (Deep Web)",
+        "url": "https://ransomed.vc",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RANSOMEDVC or REBORNVC",
+        "url": "https://ransomed.biz",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RED RANSOMWARE GROUP",
+        "url": "http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RHYSIDA",
+        "url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RHYSIDA (Mirror)",
+        "url": "http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ROYAL (Victims Page)",
+        "url": "http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "RUN SOME WARES",
+        "url": "http://rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SAFEPAY",
+        "url": "http://nz4z6ruzcekriti5cjjiiylzvrmysyqwibxztk6voem4trtx7gstpjid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SAFEPAY",
+        "url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SAFEPAY",
+        "url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SARCOMA",
+        "url": "http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SATAN LOCK",
+        "url": "http://212.24.99.211",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SATAN LOCK",
+        "url": "http://5g2e.l.time4vps.cloud",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SATAN LOCK",
+        "url": "http://mgeegnexyhhn5dpqewihjy33qyhng3gy66h3fogiwefl5hljhtmfznad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SATAN LOCK V2",
+        "url": "http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SCATTERED SPIDER",
+        "url": "https://shinyhunte.rs",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SECUROTROP",
+        "url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SENSAYQ (deep",
+        "url": "http://159.69.60.54",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SENSAYQ (dark)",
+        "url": "http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SHADOW",
+        "url": "http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SIEGEDSEC",
+        "url": "http://nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SILENT",
+        "url": "http://silentbgdghp3zeldwpumnwabglreql7jcffhx5vqkvtf2lshc4n5zid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SINOBI",
+        "url": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SKIRA TEAM",
+        "url": "http://mtgc3qvyedjnfu7cen2zsupdppi5ys5g2hm6xwujvoepw25p4dy6huid.onion/news.html",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SLUG",
+        "url": "http://3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SNATCH (Deep)",
+        "url": "https://snatchnews.top/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SNATCH (Deep)",
+        "url": "https://snatchteam.top/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SNATCH (Dark)",
+        "url": "http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/index.php",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "SPACEBEARS",
+        "url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "STORMOUS (BLOG 1)",
+        "url": "http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "STORMOUS (BLOG 2)",
+        "url": "http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "STORMOUS (BLOG 3)",
+        "url": "http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "STORMOUS (PORTALS)",
+        "url": "http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion/10fes-e87d-9987f-96s-zzd6.html",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TEAM UNDERGROUND (Victims page)",
+        "url": "http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TEAM UNDERGROUND",
+        "url": "http://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TEAM XXX",
+        "url": "http://tp5cwh6d2b5hekcg6jlhoe6mawa7dlwiv47epvnfmzuaaur2dnaa3uid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TENGU",
+        "url": "http://longcc4fqrfcqt5lzceutylaxir6h66fp6df3oin6mvwvz6pfdbxc6qd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TENGU",
+        "url": "http://fuvodyoktsjdwu3mrbbrmdsmtblkxau6l7r5dygfwgzhf36mabjtcjad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TERMITE",
+        "url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "THE GENTLEMEN",
+        "url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "ThreatLabz",
+        "url": "http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TRIDENT",
+        "url": "http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/articles",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TRIGONA (Access Portal)",
+        "url": "http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion/signin",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TRIGONA",
+        "url": "http://krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TRINITY",
+        "url": "http://txtggyng5euqkyzl2knbejwpm4rlq575jn2egqldu27osbqytrj6ruyd.onion/articles",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "TRISEC",
+        "url": "http://orfc3joknhrzscdbuxajypgrvlcawtuagbj7f44ugbosuvavg3dc3zid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "UNSAFE",
+        "url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "V IS VENDETTA",
+        "url": "http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VALENCIA",
+        "url": "http://6doyqxqqj36vnedtt2zwxmngx52mgyp7brbrtwkyd75jgiolocoybgid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VANHELSING",
+        "url": "http://vanhelqmjstkvlhrjwzgjzpq422iku6wlggiz5y5r3rmfdeiaj3ljaid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VANHELSING",
+        "url": "http://vanhelvuuo4k3xsiq626zkqvp6kobc2abry5wowxqysibmqs5yjh4uqd.onion/blog",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VANHELSING",
+        "url": "http://vanhelwmbf2bwzw7gmseg36qqm4ekc5uuhqbsew4eihzcahyq7sukzad.onion/blog",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VANHELSING",
+        "url": "http://vanhelxjo52qr2ixcmtjayqqrcodkuh36n7uq7q7xj23ggotyr3y72yd.onion/blog",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VANIR",
+        "url": "http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VICE SOCIETY",
+        "url": "http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VICE SOCIETY",
+        "url": "http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VICE SOCIETY",
+        "url": "http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "VICE SOCIETY",
+        "url": "http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WALocker",
+        "url": "http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WARLOCK",
+        "url": "http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WARLOCK",
+        "url": "http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WEREWOLVES GROUP",
+        "url": "https://werewolves.pro/en/",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WEYHRO",
+        "url": "http://xtxtpqpyaaek4p4525ksepyyy75gfvi47fptm2gftw7cn656rnfhzdqd.onion/leaks",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WIPER LEAK (only on Discord)",
+        "url": "https://discord.com/invite/jjZQdDNnGh",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WORLDLEAKS",
+        "url": "http://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "WORLDLEAKS (Early Access)",
+        "url": "https://3jguvp6xhyypdjgxhxweu4zklse66v3awjj2zljpftcjyeoimepnwtyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "X001XS",
+        "url": "http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "YUREI",
+        "url": "http://fewcriet5rhoy66k6c4cyvb2pqrblxtx4mekj3s5l4jjt4t4kn4vheyd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      },
+      {
+        "name": "Zero Tolerance",
+        "url": "http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion",
+        "status": "ONLINE",
+        "type": "ransomware",
+        "rss_feed": ""
+      }
+    ]
+  },
+  "stats": {
+    "total_sources": 979,
+    "by_type": {
+      "search_engines": 53,
+      "forums": 199,
+      "telegram": 341,
+      "twitter": 34,
+      "ransomware": 352
+    }
+  }
+}

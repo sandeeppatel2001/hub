@@ -1,0 +1,150 @@
+# Dark Web Scanner - Finding Templates
+# YAML rules for formatting scan results into standardized format
+
+# Brand Monitoring Findings
+brandMonitoring:
+  name: "Potential brand impersonation detected on dark web"
+  description: |
+    This finding indicates that a website or service on the dark web was discovered 
+    that closely resembles your brand, potentially for phishing, fraud, or reputation 
+    damage. The site may use similar domain names, logos, or content to deceive users 
+    into believing it is legitimate. Such impersonation sites are commonly used for 
+    credential harvesting, malware distribution, or scam operations.
+  mitigation: |
+    Immediately investigate the impersonation site to determine its purpose and scope. 
+    Document all evidence including screenshots, URLs, and extracted data. If the site 
+    is actively phishing users, coordinate with law enforcement and your legal team. 
+    Issue takedown requests through appropriate channels. Alert customers through 
+    official communication channels about the fraudulent site. Monitor for similar 
+    domains and implement brand protection measures.
+  threat: "Critical"
+  impact: |
+    Brand impersonation on the dark web poses severe risks including customer credential 
+    theft, financial fraud, reputation damage, loss of customer trust, and potential 
+    regulatory penalties. Attackers may harvest login credentials, payment information, 
+    or personal data from unsuspecting users. The presence of phishing sites can lead 
+    to widespread account compromises, financial losses for customers, and long-term 
+    damage to brand reputation and customer confidence.
+  tags:
+    - "phishing"
+    - "brand_impersonation"
+    - "dark_web"
+    - "fraud"
+
+# Ransomware Monitoring Findings
+ransomwareMonitoring:
+  name: "Company mentioned on ransomware gang leak site"
+  description: |
+    This finding indicates that your company name, domain, or related keywords were 
+    discovered on a ransomware gang's leak site. Ransomware groups typically publish 
+    victim information on these sites to pressure companies into paying ransoms. 
+    The presence of your company on such sites may indicate an active or past 
+    ransomware attack, data exfiltration, or that you are being targeted.
+  mitigation: |
+    Immediately activate your incident response team and investigate for signs of 
+    ransomware infection or data breach. Review all systems for indicators of compromise. 
+    Verify data integrity and check for unauthorized access. Do not pay the ransom 
+    without consulting law enforcement and legal counsel. Notify affected parties as 
+    required by regulations. Engage forensic experts to determine the extent of the 
+    breach. Implement enhanced monitoring and security controls.
+  threat: "Critical"
+  impact: |
+    Discovery on a ransomware leak site indicates potential data exfiltration, system 
+    compromise, operational disruption, regulatory penalties, legal liability, and 
+    severe reputation damage. Leaked data may include sensitive business information, 
+    customer data, intellectual property, or confidential communications. Public 
+    exposure can lead to competitive disadvantage, loss of customer trust, regulatory 
+    investigations, and significant financial losses from downtime and recovery efforts.
+  tags:
+    - "ransomware"
+    - "data_leak"
+    - "extortion"
+    - "breach"
+
+# Telegram Monitoring Findings
+telegramMonitoring:
+  name: "Company mentioned in threat actor Telegram channel"
+  description: |
+    This finding indicates that your company was mentioned in a Telegram channel 
+    associated with threat actors, hackers, or cybercriminal groups. These channels 
+    are often used to coordinate attacks, share stolen data, sell access to compromised 
+    systems, or discuss potential targets. Mentions may indicate active targeting, 
+    data trading, or discussions about vulnerabilities in your systems.
+  mitigation: |
+    Monitor the Telegram channel for additional context and specific threats. 
+    Investigate whether any credentials, access, or data related to your company 
+    are being traded. Review security logs for unauthorized access attempts. 
+    Strengthen authentication mechanisms and implement MFA. Conduct security 
+    awareness training for employees. Consider engaging threat intelligence services 
+    to monitor ongoing discussions and potential threats.
+  threat: "High"
+  impact: |
+    Mentions in threat actor Telegram channels indicate elevated risk of targeted 
+    attacks, credential theft, data breaches, or system compromise. Threat actors 
+    may be sharing vulnerabilities, selling access credentials, or coordinating 
+    attacks against your infrastructure. This exposure increases the likelihood of 
+    phishing campaigns, social engineering attempts, ransomware attacks, or data 
+    exfiltration targeting your organization.
+  tags:
+    - "telegram"
+    - "threat_actor"
+    - "targeting"
+    - "dark_web_chatter"
+
+# Twitter Monitoring Findings
+twitterMonitoring:
+  name: "Company mentioned by threat actor on Twitter/X"
+  description: |
+    This finding indicates that your company was mentioned by a known threat actor 
+    or cybercriminal on Twitter/X. Threat actors often use social media to announce 
+    attacks, claim responsibility for breaches, threaten organizations, or advertise 
+    stolen data. Such mentions may indicate an active attack, data breach, or that 
+    your organization is being publicly targeted.
+  mitigation: |
+    Immediately investigate the context of the mention to determine if it relates 
+    to an active attack or data breach. Review security logs and systems for signs 
+    of compromise. Engage your PR and legal teams to prepare response strategies. 
+    Document all evidence and report to appropriate law enforcement agencies. 
+    Monitor for additional threats or leaked data. Strengthen security controls 
+    and incident response capabilities.
+  threat: "High"
+  impact: |
+    Public mentions by threat actors on social media can lead to reputation damage, 
+    customer panic, regulatory scrutiny, and increased attack attempts. If the mention 
+    includes leaked data or breach claims, it may result in loss of customer trust, 
+    legal liability, regulatory penalties, and financial losses. Public targeting 
+    can also inspire copycat attacks and increase overall threat exposure.
+  tags:
+    - "twitter"
+    - "social_media"
+    - "threat_actor"
+    - "public_threat"
+
+# Forum Monitoring Findings
+forumMonitoring:
+  name: "Company discussed in dark web forum"
+  description: |
+    This finding indicates that your company was mentioned or discussed in a dark 
+    web forum. These forums are commonly used by hackers, cybercriminals, and threat 
+    actors to share information about targets, trade stolen data, sell access to 
+    compromised systems, or discuss attack techniques. Forum discussions may reveal 
+    vulnerabilities, ongoing attacks, or criminal interest in your organization.
+  mitigation: |
+    Analyze the forum discussion to understand the context and specific threats. 
+    Investigate whether any credentials, vulnerabilities, or access methods are 
+    being shared. Review and patch any mentioned vulnerabilities. Monitor the forum 
+    for ongoing discussions. Implement enhanced security monitoring and threat 
+    detection. Consider engaging threat intelligence services for continuous 
+    monitoring of underground forums.
+  threat: "High"
+  impact: |
+    Discussions in dark web forums indicate that your organization is on the radar 
+    of cybercriminals. This can lead to targeted attacks, credential stuffing, 
+    exploitation of vulnerabilities, data breaches, or ransomware attacks. Forum 
+    members may share attack tools, techniques, or stolen data, increasing the 
+    risk of coordinated attacks against your infrastructure and assets.
+  tags:
+    - "forum"
+    - "dark_web"
+    - "underground"
+    - "threat_discussion"

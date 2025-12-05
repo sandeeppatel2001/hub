@@ -1,0 +1,28 @@
+{
+    "companyName": "facebook",
+    "domains": [
+        "facebook.com",
+        "facebook.in"
+    ],
+    "keywords": [
+        "facebook",
+        "FB",
+        "Meta"
+    ],
+    "techStack": [
+        "React",
+        "PHP",
+        "MySQL",
+        "Cassandra"
+    ],
+    "realLoginUrl": "https://www.facebook.com/login",
+    "logoUrl": "https://www.facebook.com/images/fb_icon_325x325.png",
+    "alertEmail": "security@facebook.com",
+    "monitoringFrequency": "daily",
+    "alertThresholds": {
+        "critical": 9,
+        "high": 7,
+        "medium": 4,
+        "low": 1
+    }
+}
