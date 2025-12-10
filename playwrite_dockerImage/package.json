@@ -1,0 +1,15 @@
+{
+  "name": "playwrite_dockerimage",
+  "version": "1.0.0",
+  "description": "## Install Packages ``` sudo apt update sudo apt install -y chromium-browser wget gnupg unzip xvfb fluxbox x11vnc ```",
+  "main": "playwrite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.57.0",
+    "@aws-sdk/client-s3": "^3.450.0"
+  }
+}
